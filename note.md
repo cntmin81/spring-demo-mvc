@@ -14,3 +14,5 @@
 ## Add validation rule to customer class
 
 ## Display validation error message on HTML form
+
+## Perform validation in Controller class

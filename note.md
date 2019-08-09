@@ -11,3 +11,6 @@
 * dist/hibernate-validator-*
 
 
+## Add validation rule to customer class
+
+## Display validation error message on HTML form
